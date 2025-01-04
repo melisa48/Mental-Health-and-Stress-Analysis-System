@@ -42,4 +42,4 @@ To use Mental Health and Stress Analysis System, run the main.py
 3. Run the script as shown in the Usage section
 
 ## Contributing
-Contributions to improve Mental Health and Stress Analysis System are welcome. Please follow the standard fork-and-pull request workflow.
+- Contributions to improve Mental Health and Stress Analysis System are welcome. Please follow the standard fork-and-pull request workflow.
