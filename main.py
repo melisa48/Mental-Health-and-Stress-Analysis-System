@@ -1,5 +1,3 @@
-# main.py
-
 from mental_health_analyzer import MentalHealthAnalyzer
 import json
 from datetime import datetime
