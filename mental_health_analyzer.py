@@ -1,5 +1,3 @@
-# mental_health_analyzer.py
-
 import sqlite3
 from datetime import datetime
 import pandas as pd
