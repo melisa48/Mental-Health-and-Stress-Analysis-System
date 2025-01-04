@@ -1,0 +1,26 @@
+{
+    "timestamp": "2025-01-04 14:27:45",
+    "user_id": 2,
+    "analysis_summary": {
+        "average_stress": 9.0,
+        "average_anxiety": 8.0,
+        "sleep_quality_trend": [
+            NaN
+        ],
+        "mood_variation": NaN,
+        "physical_activity_correlation": NaN,
+        "meditation_impact": null
+    },
+    "recommendations": [
+        {
+            "category": "Stress Management",
+            "suggestion": "Consider incorporating daily breathing exercises and progressive muscle relaxation",
+            "priority": "High"
+        }
+    ],
+    "data_quality": {
+        "total_records": 1,
+        "completion_rate": 0.03333333333333333,
+        "data_consistency": true
+    }
+}
